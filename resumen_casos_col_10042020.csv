@@ -1,0 +1,25 @@
+fecha_diagnostico,Ciudad,Departamento,Atencion,Edad,Sexo,Tipo,Procedencia,confirmado,latitud,longitud
+29/03/2020,Sincelejo,Sucre,En casa,20 a 29,F,Relacionado,Colombia,1.0,9.06299,-75.1115
+31/03/2020,Riohacha,La Guajira,Casa,40 a 49,M,Importado,Estados Unidos,1.0,11.475999999999999,-72.4299
+07/04/2020,Monteria,Cordoba,Hospital,47,F,En estudio,Colombia,6.0,8.35833,-75.7948
+09/04/2020,San Andres,San Andres y Providencia,Casa,42,M,Relacionado,Colombia,4.0,12.9119,-81.5654
+09/04/2020,Bucaramanga,Santander,Casa,26,F,En estudio,Colombia,21.0,6.6950899999999995,-73.4862
+10/04/2020,Medellin,Antioquia,Hospital,48,M,En estudio,Colombia,251.0,6.92599,-75.571
+10/04/2020,Bogota,Bogota,Casa,67,M,En estudio,Colombia,1153.0,4.31237,-74.1817
+10/04/2020,Barranquilla,Atlantico,Casa,56,F,Relacionado,Colombia,75.0,10.675999999999998,-74.9649
+10/04/2020,Cartagena,Bolivar,Casa,40,F,En estudio,Colombia,109.0,8.74375,-74.5064
+10/04/2020,Tunja,Boyaca,Casa,24,F,En estudio,Colombia,27.0,5.77802,-73.1002
+10/04/2020,San Diego,Cesar,Hospital,54,M,En estudio,Colombia,20.0,9.537410000000001,-73.5178
+10/04/2020,Neiva,Huila,Casa,94,F,Relacionado,Colombia,41.0,2.5659799999999997,-75.5979
+10/04/2020,Santa Marta,Magdalena,Casa,41,M,En estudio,Colombia,42.0,10.2489,-74.2607
+10/04/2020,Villavicencio,Meta,Fallecido,62,M,En estudio,Colombia,16.0,3.34766,-72.9552
+10/04/2020,Ipiales,Narino,Casa,26,M,En estudio,Ecuador,31.0,1.56952,-77.8716
+10/04/2020,Armenia,Quindio,Hospital,74,M,En estudio,Colombia,43.0,4.45446,-75.6897
+10/04/2020,Dosquebradas,Risaralda,Casa,57,F,En estudio,Colombia,53.0,5.08407,-75.8422
+10/04/2020,Ibague,Tolima,Casa,21,M,En estudio,Colombia,21.0,4.03466,-75.2558
+10/04/2020,Cucuta,Norte de Santander,Hospital,93,F,En estudio,Colombia,40.0,8.0953,-72.8805
+10/04/2020,Soacha,Cundinamarca,Hospital,30,M,En estudio,Colombia,53.0,4.823869999999999,-74.0978
+10/04/2020,Yopal,Casanare,Hospital,71,F,En estudio,Colombia,5.0,5.4036800000000005,-71.6015
+10/04/2020,Popayan,Cauca,Casa,35,M,Relacionado,Colombia,17.0,2.39676,-76.8336
+10/04/2020,Palmira,Valle del Cauca,Hospital,69,F,En estudio,Colombia,418.0,3.85854,-76.518
+10/04/2020,Manizales,Caldas,Casa,30,F,Importado,Panama,25.0,5.34241,-75.3057

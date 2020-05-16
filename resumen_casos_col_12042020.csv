@@ -1,0 +1,26 @@
+fecha_diagnostico,Ciudad,Departamento,Atencion,Edad,Sexo,Tipo,Procedencia,confirmado,latitud,longitud
+29/03/2020,Sincelejo,Sucre,En casa,20 a 29,F,Relacionado,Colombia,1.0,9.06299,-75.1115
+31/03/2020,Riohacha,La Guajira,Casa,40 a 49,M,Importado,Estados Unidos,1.0,11.475999999999999,-72.4299
+10/04/2020,Popayan,Cauca,Casa,35,M,Relacionado,Colombia,17.0,2.39676,-76.8336
+11/04/2020,Tunja,Boyaca,Casa,23,F,En estudio,Colombia,31.0,5.77802,-73.1002
+11/04/2020,Yopal,Casanare,Casa,24,F,Relacionado,Colombia,7.0,5.4036800000000005,-71.6015
+11/04/2020,Quibdo,Choco,Casa,47,F,En estudio,Colombia,1.0,5.93883,-76.9383
+11/04/2020,Armenia,Quindio,Fallecido,77,M,En estudio,Colombia,46.0,4.45446,-75.6897
+11/04/2020,Ibague,Tolima,Hospital UCI,39,M,En estudio,Colombia,23.0,4.03466,-75.2558
+11/04/2020,Valledupar,Cesar,Casa,25,M,En estudio,Colombia,32.0,9.537410000000001,-73.5178
+11/04/2020,Neiva,Huila,Casa,44,F,Relacionado,Colombia,52.0,2.5659799999999997,-75.5979
+11/04/2020,Tumaco,Narino,Casa,45,M,Importado,Ecuador,38.0,1.56952,-77.8716
+11/04/2020,San Andres,San Andres y Providencia,Casa,65,M,En estudio,Colombia,5.0,12.9119,-81.5654
+11/04/2020,Villavicencio,Meta,Casa,34,M,Importado,Estados Unidos De America,21.0,3.34766,-72.9552
+11/04/2020,Monteria,Cordoba,Casa,26,F,En estudio,Colombia,12.0,8.35833,-75.7948
+12/04/2020,BUCARAMANGA,Santander,Casa,23,F,En estudio,COLOMBIA,29.0,6.6950899999999995,-73.4862
+12/04/2020,PEREIRA,Risaralda,Casa,54,M,Relacionado,COLOMBIA,61.0,5.08407,-75.8422
+12/04/2020,MANIZALES,Caldas,Casa,34,M,Importado,BRASIL,34.0,5.34241,-75.3057
+12/04/2020,CARTAGENA,Bolivar,Casa,14,F,Relacionado,COLOMBIA,123.0,8.74375,-74.5064
+12/04/2020,CUCUTA,Norte de Santander,Casa,32,F,En estudio,COLOMBIA,43.0,8.0953,-72.8805
+12/04/2020,CAJICA,Cundinamarca,Casa,30,F,Relacionado,COLOMBIA,81.0,4.823869999999999,-74.0978
+12/04/2020,SANTA MARTA,Magdalena,Casa,38,F,En estudio,COLOMBIA,61.0,10.2489,-74.2607
+12/04/2020,BARANOA,Atlantico,Casa,68,M,En estudio,COLOMBIA,84.0,10.675999999999998,-74.9649
+12/04/2020,MEDELLIN,Antioquia,Casa,20,F,Importado,ECUADOR,266.0,6.92599,-75.571
+12/04/2020,CALI,Valle del Cauca,Hospital,74,F,En estudio,COLOMBIA,489.0,3.85854,-76.518
+12/04/2020,BOGOTA,Bogota,Casa,80,F,En estudio,COLOMBIA,1218.0,4.31237,-74.1817

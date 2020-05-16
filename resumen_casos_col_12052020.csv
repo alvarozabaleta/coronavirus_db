@@ -1,0 +1,30 @@
+Departamento,Condicion,confirmado,recuperados,defunciones
+Bogota,Recuperado,4563,1197,155
+Valle del Cauca,Recuperado,1415,418,83
+Antioquia,Recuperado,481,290,6
+Bolivar,Recuperado,824,159,51
+Huila,Recuperado,185,61,8
+Meta,Recuperado,935,42,6
+Risaralda,Recuperado,216,135,8
+Santander,Recuperado,146,69,13
+Caldas,Recuperado,104,39,4
+Cundinamarca,Recuperado,309,151,13
+Atlantico,Recuperado,1124,85,42
+Quindio,Recuperado,71,54,2
+Tolima,Recuperado,133,38,6
+Cauca,Recuperado,53,21,4
+Magdalena,Recuperado,308,74,24
+Cesar,Recuperado,72,45,11
+San Andres y Providencia,Recuperado,21,4,0
+Casanare,Recuperado,21,8,0
+Narino,Fallecido,338,34,18
+Boyaca,Recuperado,79,19,3
+Cordoba,Recuperado,42,12,3
+Sucre,Recuperado,4,1,0
+La Guajira,Recuperado,28,3,3
+Choco,Casa,35,3,3
+Amazonas,Casa,743,9,26
+Caqueta,Fallecido,17,0,1
+Putumayo,Hospital,2,0,0
+Arauca,Hospital,1,0,0
+Vupes,Casa,2,0,0
