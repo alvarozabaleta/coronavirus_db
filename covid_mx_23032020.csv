@@ -1,0 +1,407 @@
+Caso,Estado,Sexo,Edad,Fecha,Identificacion,Procedencia,llegada,latitud,longitud
+1,Ciudad de Mexico,M,35,22/02/2020,confirmado,Italia,22/02/2020,19.4284706,-99.1276627
+2,Sinaloa,M,41,22/02/2020,confirmado,Italia,21/02/2020,25.1721091,-107.4795173
+3,Ciudad de Mexico,M,59,23/02/2020,confirmado,Italia,22/02/2020,19.4284706,-99.1276627
+4,Coahuila,F,20,27/02/2020,confirmado,Italia,25/02/2020,27.058676,-101.7068294
+5,Chiapas,F,18,25/02/2020,confirmado,Italia,25/02/2020,16.7569318,-93.1292353
+6,Mexico,M,71,21/02/2020,confirmado,Italia,21/02/2020,19.4968732,-99.7232673
+7,Ciudad de Mexico,M,46,29/02/2020,confirmado,Estados Unidos,29/02/2020,19.4284706,-99.1276627
+8,Queretaro,M,43,03/09/2020,confirmado,Spain,03/06/2020,20.5888184,-100.3898876
+9,Ciudad de Mexico,M,41,03/07/2020,confirmado,Estados Unidos,03/06/2020,19.4284706,-99.1276627
+10,Ciudad de Mexico,F,30,03/07/2020,confirmado,Spain,03/06/2020,19.4284706,-99.1276627
+11,Mexico,F,64,03/02/2020,confirmado,Estados Unidos,29/02/2020,19.4968732,-99.7232673
+12,Nuevo Leon,M,57,03/04/2020,confirmado,Alemania,03/03/2020,25.592172,-99.9961947
+13,Mexico,F,55,03/09/2020,confirmado,Spain,03/09/2020,19.4968732,-99.7232673
+14,Durango,M,58,03/06/2020,confirmado,Spain,28/02/2020,24.5592665,-104.6587821
+15,Queretaro,F,65,03/10/2020,confirmado,Contacto,NA,20.5888184,-100.3898876
+16,Queretaro,M,42,03/05/2020,confirmado,Italia,03/05/2020,20.5888184,-100.3898876
+17,Ciudad de Mexico,M,48,03/10/2020,confirmado,Spain,03/09/2020,19.4284706,-99.1276627
+18,Ciudad de Mexico,M,38,03/10/2020,confirmado,Spain,03/09/2020,19.4284706,-99.1276627
+19,Queretaro,F,43,03/11/2020,confirmado,Contacto,NA,20.5888184,-100.3898876
+20,Puebla,M,31,03/05/2020,confirmado,Spain,03/09/2020,19.0414398,-98.2062727
+21,Ciudad de Mexico,M,37,03/11/2020,confirmado,Italia,03/11/2020,19.4284706,-99.1276627
+22,Yucatan,F,57,03/07/2020,confirmado,Spain,03/06/2020,20.7098786,-89.0943377
+23,Ciudad de Mexico,M,52,03/08/2020,confirmado,Spain,03/08/2020,19.4284706,-99.1276627
+24,Ciudad de Mexico,M,64,03/10/2020,confirmado,Contacto,03/10/2020,19.4284706,-99.1276627
+25,Ciudad de Mexico,M,68,03/04/2020,confirmado,Spain,03/10/2020,19.4284706,-99.1276627
+26,Quintana Roo,F,71,03/01/2020,confirmado,Italia,03/01/2020,19.1817393,-88.4791376
+27,San Luis Potosi,F,53,03/11/2020,confirmado,Spain,03/10/2020,22.1498203,-100.9791565
+28,Nuevo Leon,M,73,03/09/2020,confirmado,Estados Unidos,03/10/2020,25.592172,-99.9961947
+29,Nuevo Leon,M,30,03/09/2020,confirmado,Spain,03/07/2020,25.592172,-99.9961947
+30,Puebla,M,31,03/09/2020,confirmado,Spain,03/08/2020,19.0414398,-98.2062727
+31,Ciudad de Mexico,F,33,03/10/2020,confirmado,Francia,03/08/2020,19.4284706,-99.1276627
+32,Jalisco,F,54,03/10/2020,confirmado,Spain,03/04/2020,20.6595382,-103.3494376
+33,Jalisco,F,64,03/01/2020,confirmado,Alemania,03/09/2020,20.6595382,-103.3494376
+34,Mexico,M,61,03/09/2020,confirmado,Estados Unidos,03/03/2020,19.4968732,-99.7232673
+35,Ciudad de Mexico,M,45,03/07/2020,confirmado,Spain,03/09/2020,19.4284706,-99.1276627
+36,Ciudad de Mexico,F,62,03/11/2020,confirmado,Estados Unidos,03/08/2020,19.4284706,-99.1276627
+37,Ciudad de Mexico,M,72,03/09/2020,confirmado,Estados Unidos,03/07/2020,19.4284706,-99.1276627
+38,Ciudad de Mexico,M,41,03/10/2020,confirmado,Spain,03/08/2020,19.4284706,-99.1276627
+39,Puebla,M,30,03/09/2020,confirmado,Spain,03/09/2020,19.0414398,-98.2062727
+40,Ciudad de Mexico,M,38,03/11/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+41,Oaxaca,F,30,03/09/2020,confirmado,Spain,03/09/2020,17.0731842,-96.7265889
+42,Sinaloa,M,25,03/09/2020,confirmado,Estados Unidos,13/03/2020,25.1721091,-107.4795173
+43,San Luis Potosi,F,23,03/07/2020,confirmado,Spain,03/10/2020,22.1498203,-100.9791565
+44,Queretaro,F,54,03/10/2020,confirmado,Spain,03/10/2020,20.5888184,-100.3898876
+45,Oaxaca,M,61,03/10/2020,confirmado,Estados Unidos,03/10/2020,17.0731842,-96.7265889
+46,Queretaro,F,55,03/10/2020,confirmado,Spain,03/10/2020,20.5888184,-100.3898876
+47,Nuevo Leon,M,27,03/11/2020,confirmado,Spain,13/03/2020,25.592172,-99.9961947
+48,Nuevo Leon,M,46,03/06/2020,confirmado,,,25.592172,-99.9961947
+49,Guerrero,M,32,03/12/2020,confirmado,Contacto,NA,17.4391926,-99.5450974
+50,Durango,M,32,03/11/2020,confirmado,Alemania,03/11/2020,24.5592665,-104.6587821
+51,Guerrero,F,22,03/09/2020,confirmado,Spain,03/12/2020,17.4391926,-99.5450974
+52,Puebla,F,27,03/05/2020,confirmado,Spain,03/09/2020,19.0414398,-98.2062727
+53,Ciudad de Mexico,F,70,03/07/2020,confirmado,Estados Unidos,03/08/2020,19.4284706,-99.1276627
+54,Ciudad de Mexico,M,32,03/10/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+55,Ciudad de Mexico,M,59,03/07/2020,confirmado,Spain,03/04/2020,19.4284706,-99.1276627
+56,Ciudad de Mexico,M,70,03/09/2020,confirmado,Estados Unidos,03/08/2020,19.4284706,-99.1276627
+57,Durango,F,38,03/09/2020,confirmado,Spain,03/12/2020,24.5592665,-104.6587821
+58,Aguascalientes,M,25,14/03/2020,confirmado,Spain,03/12/2020,21.8823395,-102.2825928
+59,Puebla,F,31,03/10/2020,confirmado,Contacto,NA,19.0414398,-98.2062727
+60,Queretaro,F,45,13/03/2020,confirmado,Spain,03/10/2020,20.5888184,-100.3898876
+61,Mexico,M,27,13/03/2020,confirmado,Contacto,NA,19.4968732,-99.7232673
+62,Mexico,F,47,03/05/2020,confirmado,Estados Unidos,29/02/2020,19.4968732,-99.7232673
+63,Mexico,F,59,03/07/2020,confirmado,Francia,03/08/2020,19.4968732,-99.7232673
+64,Ciudad de Mexico,M,41,03/09/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+65,Guanajuato,M,39,03/12/2020,confirmado,Alemania,03/10/2020,21.0190145,-101.2573586
+66,Nuevo Leon,M,72,03/11/2020,confirmado,Estados Unidos,03/10/2020,25.592172,-99.9961947
+67,Chihuahua,M,29,03/12/2020,confirmado,Alemania,03/12/2020,28.6352806,-106.0888901
+68,Quintana Roo,F,50,03/08/2020,confirmado,Spain,03/11/2020,19.1817393,-88.4791376
+69,Quintana Roo,F,19,13/03/2020,confirmado,Spain,03/11/2020,19.1817393,-88.4791376
+70,Quintana Roo,M,44,03/11/2020,confirmado,Contacto,NA,19.1817393,-88.4791376
+71,Mexico,F,49,13/03/2020,confirmado,Spain,13/03/2020,19.4968732,-99.7232673
+72,Puebla,M,32,03/11/2020,confirmado,Estados Unidos,03/07/2020,19.0414398,-98.2062727
+73,Nuevo Leon,F,74,03/09/2020,confirmado,Spain,03/12/2020,25.592172,-99.9961947
+74,Nuevo Leon,F,80,03/09/2020,confirmado,Spain,03/12/2020,25.592172,-99.9961947
+75,Nuevo Leon,M,71,03/07/2020,confirmado,Estados Unidos,03/10/2020,25.592172,-99.9961947
+76,Nuevo Leon,M,53,03/09/2020,confirmado,Spain,03/10/2020,25.592172,-99.9961947
+77,Nuevo Leon,M,42,03/02/2020,confirmado,Estados Unidos,03/02/2020,25.592172,-99.9961947
+78,Mexico,M,45,03/11/2020,confirmado,Estados Unidos,03/01/2020,19.4968732,-99.7232673
+79,Nuevo Leon,M,33,03/09/2020,confirmado,Estados Unidos,03/12/2020,25.592172,-99.9961947
+80,Nuevo Leon,F,27,03/12/2020,confirmado,Estados Unidos,03/12/2020,25.592172,-99.9961947
+81,Yucatan,F,31,03/08/2020,confirmado,Francia,03/10/2020,20.7098786,-89.0943377
+82,Yucatan,M,21,13/03/2020,confirmado,Spain,13/03/2020,20.7098786,-89.0943377
+83,Tamaulipas,M,55,13/03/2020,confirmado,Singapur,03/11/2020,24.26694,-98.8362755
+84,Puebla,F,27,03/09/2020,confirmado,Spain,03/09/2020,19.0414398,-98.2062727
+85,Puebla,M,31,03/09/2020,confirmado,Spain,03/09/2020,19.0414398,-98.2062727
+86,Yucatan,F,54,03/11/2020,confirmado,Spain,03/08/2020,20.7098786,-89.0943377
+87,Sonora,M,72,03/11/2020,confirmado,Estados Unidos,03/11/2020,29.2972247,-110.3308814
+88,Jalisco,M,49,03/06/2020,confirmado,Spain,03/04/2020,20.6595382,-103.3494376
+89,Jalisco,M,41,03/10/2020,confirmado,Estados Unidos,29/02/2020,20.6595382,-103.3494376
+90,Jalisco,F,56,03/11/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+91,Yucatan,M,37,03/09/2020,confirmado,Estados Unidos,03/06/2020,20.7098786,-89.0943377
+92,Nuevo Leon,M,19,03/07/2020,confirmado,Contacto,03/10/2020,25.592172,-99.9961947
+93,Nuevo Leon,M,34,03/12/2020,confirmado,Estados Unidos,03/07/2020,25.592172,-99.9961947
+94,Nuevo Leon,M,41,03/10/2020,confirmado,Estados Unidos,03/07/2020,25.592172,-99.9961947
+95,Nuevo Leon,M,46,03/11/2020,confirmado,Estados Unidos,03/09/2020,25.592172,-99.9961947
+96,Nuevo Leon,M,21,14/03/2020,confirmado,Spain,15/03/2020,25.592172,-99.9961947
+97,Nuevo Leon,M,21,15/03/2020,confirmado,Spain,13/03/2020,25.592172,-99.9961947
+98,Yucatan,F,21,13/03/2020,confirmado,Spain,13/03/2020,20.7098786,-89.0943377
+99,Yucatan,M,25,03/11/2020,confirmado,Spain,15/03/2020,20.7098786,-89.0943377
+100,Jalisco,F,36,03/10/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+101,Ciudad de Mexico,M,53,03/09/2020,confirmado,Spain,03/09/2020,19.4284706,-99.1276627
+102,Ciudad de Mexico,F,53,03/06/2020,confirmado,Spain,03/09/2020,19.4284706,-99.1276627
+103,Mexico,M,56,03/07/2020,confirmado,Estados Unidos,03/05/2020,19.4968732,-99.7232673
+104,Veracruz,F,21,03/03/2020,confirmado,Spain,03/12/2020,19.1809502,-96.1428986
+105,Veracruz,M,24,14/03/2020,confirmado,Spain,14/03/2020,19.1809502,-96.1428986
+106,San Luis Potosi,M,32,14/03/2020,confirmado,Spain,14/03/2020,22.1498203,-100.9791565
+107,Puebla,M,25,03/10/2020,confirmado,Spain,03/09/2020,19.0414398,-98.2062727
+108,Yucatan,F,26,03/08/2020,confirmado,Spain,14/03/2020,20.7098786,-89.0943377
+109,Colima,M,46,15/03/2020,confirmado,Alemania,13/03/2020,19.2452342,-103.7240868
+110,Baja California,F,54,03/11/2020,confirmado,Estados Unidos,03/02/2020,30.8406338,-115.2837585
+111,Baja California,F,57,13/03/2020,confirmado,Contacto,16/03/2020,30.8406338,-115.2837585
+112,Ciudad de Mexico,M,47,03/12/2020,confirmado,Estados Unidos,03/12/2020,19.4284706,-99.1276627
+113,Ciudad de Mexico,M,43,14/03/2020,confirmado,Estados Unidos,03/12/2020,19.4284706,-99.1276627
+114,Hidalgo,M,39,03/07/2020,confirmado,Francia,03/06/2020,20.0910963,-98.7623874
+115,Sonora,M,44,03/12/2020,confirmado,Italia,03/10/2020,29.2972247,-110.3308814
+116,Tabasco,F,61,14/03/2020,confirmado,Francia,16/03/2020,17.8409173,-92.6189273
+117,Puebla,M,64,03/08/2020,confirmado,Estados Unidos,03/08/2020,19.0414398,-98.2062727
+118,Sinaloa,F,25,15/03/2020,confirmado,Estados Unidos,17/03/2020,25.1721091,-107.4795173
+119,Hidalgo,M,43,03/08/2020,confirmado,Estados Unidos,02/10/2020,20.0910963,-98.7623874
+120,San Luis Potosi,M,39,16/03/2020,confirmado,Spain,14/03/2020,22.1498203,-100.9791565
+121,San Luis Potosi,M,31,15/03/2020,confirmado,Francia,14/03/2020,22.1498203,-100.9791565
+122,San Luis Potosi,M,44,16/03/2020,confirmado,Spain,16/03/2020,22.1498203,-100.9791565
+123,San Luis Potosi,F,63,15/03/2020,confirmado,Spain,17/03/2020,22.1498203,-100.9791565
+124,Ciudad de Mexico,M,28,16/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+125,Puebla,F,24,16/03/2020,confirmado,Contacto,NA,19.0414398,-98.2062727
+126,Ciudad de Mexico,M,35,03/10/2020,confirmado,Estados Unidos,03/10/2020,19.4284706,-99.1276627
+127,Guanajuato,F,18,03/10/2020,confirmado,Estados Unidos,13/03/2020,21.0190145,-101.2573586
+128,Tamaulipas,F,23,16/03/2020,confirmado,Spain,03/12/2020,24.26694,-98.8362755
+129,Quintana Roo,M,17,03/09/2020,confirmado,Estados Unidos,03/09/2020,19.1817393,-88.4791376
+130,Quintana Roo,M,39,16/03/2020,confirmado,Italia,03/01/2020,19.1817393,-88.4791376
+131,Guerrero,M,79,15/03/2020,confirmado,Spain,13/03/2020,17.4391926,-99.5450974
+132,Guanajuato,F,27,14/03/2020,confirmado,Spain,14/03/2020,21.0190145,-101.2573586
+133,Guanajuato,F,52,03/12/2020,confirmado,Spain,14/03/2020,21.0190145,-101.2573586
+134,Quintana Roo,M,42,14/03/2020,confirmado,Spain,13/03/2020,19.1817393,-88.4791376
+135,Queretaro,M,25,03/08/2020,confirmado,Spain,16/03/2020,20.5888184,-100.3898876
+136,Mexico,F,52,03/10/2020,confirmado,Spain,03/12/2020,19.4968732,-99.7232673
+137,Yucatan,F,27,13/03/2020,confirmado,Contacto,NA,20.7098786,-89.0943377
+138,Yucatan,M,51,14/03/2020,confirmado,Contacto,NA,20.7098786,-89.0943377
+139,Baja California,M,72,03/09/2020,confirmado,Estados Unidos,03/10/2020,30.8406338,-115.2837585
+140,Yucatan,M,32,03/11/2020,confirmado,Estados Unidos,NA,20.7098786,-89.0943377
+141,Yucatan,M,30,16/03/2020,confirmado,Spain,03/11/2020,20.7098786,-89.0943377
+142,Yucatan,M,45,13/03/2020,confirmado,Estados Unidos,13/03/2020,20.7098786,-89.0943377
+143,Quintana Roo,M,45,15/03/2020,confirmado,Estados Unidos,15/03/2020,19.1817393,-88.4791376
+144,Jalisco,M,54,13/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+145,Jalisco,M,27,13/03/2020,confirmado,Spain,15/03/2020,20.6595382,-103.3494376
+146,Quintana Roo,F,22,16/03/2020,confirmado,Spain,16/03/2020,19.1817393,-88.4791376
+147,Jalisco,F,49,03/12/2020,confirmado,Spain,03/09/2020,20.6595382,-103.3494376
+148,Jalisco,M,19,16/03/2020,confirmado,Spain,13/03/2020,20.6595382,-103.3494376
+149,Guerrero,F,38,13/03/2020,confirmado,Estados Unidos,03/01/2020,17.4391926,-99.5450974
+150,Ciudad de Mexico,M,46,03/12/2020,confirmado,Estados Unidos,03/10/2020,19.4284706,-99.1276627
+151,Ciudad de Mexico,M,35,03/11/2020,confirmado,Estados Unidos,03/05/2020,19.4284706,-99.1276627
+152,Aguascalientes,M,70,15/03/2020,confirmado,Estados Unidos,13/03/2020,21.8823395,-102.2825928
+153,Ciudad de Mexico,M,59,13/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+154,Aguascalientes,M,50,16/03/2020,confirmado,Spain,17/03/2020,21.8823395,-102.2825928
+155,Veracruz,F,64,18/03/2020,confirmado,Spain,15/03/2020,19.1809502,-96.1428986
+156,Nuevo Leon,M,35,03/09/2020,confirmado,Estados Unidos,03/09/2020,25.592172,-99.9961947
+157,Nuevo Leon,M,42,16/03/2020,confirmado,Contacto,NA,25.592172,-99.9961947
+158,Durango,M,74,15/03/2020,confirmado,Estados Unidos,03/03/2020,24.5592665,-104.6587821
+159,Morelos,M,37,14/03/2020,confirmado,Estados Unidos,03/07/2020,18.6813049,-99.1013498
+160,Queretaro,M,34,15/03/2020,confirmado,Francia,15/03/2020,20.5888184,-100.3898876
+161,Veracruz,F,63,14/03/2020,confirmado,Spain,13/03/2020,19.1809502,-96.1428986
+162,Nuevo Leon,F,29,13/03/2020,confirmado,Spain,14/03/2020,25.592172,-99.9961947
+163,Morelos,F,54,17/03/2020,confirmado,Estados Unidos,17/03/2020,18.6813049,-99.1013498
+164,Jalisco,F,73,14/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+165,Jalisco,M,52,14/03/2020,confirmado,Estados Unidos,14/03/2020,20.6595382,-103.3494376
+166,Jalisco,M,50,03/04/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+167,Quintana Roo,M,35,15/03/2020,confirmado,Alemania,14/03/2020,19.1817393,-88.4791376
+168,Quintana Roo,F,30,14/03/2020,confirmado,Estados Unidos,14/03/2020,19.1817393,-88.4791376
+169,Nuevo Leon,M,28,14/03/2020,confirmado,Estados Unidos,03/12/2020,25.592172,-99.9961947
+170,Aguascalientes,M,42,03/10/2020,confirmado,Spain,03/11/2020,21.8823395,-102.2825928
+171,Nuevo Leon,F,48,03/11/2020,confirmado,Spain,13/03/2020,25.592172,-99.9961947
+172,Jalisco,F,19,03/11/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+173,Jalisco,F,29,14/03/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+174,Jalisco,M,41,03/08/2020,confirmado,Estados Unidos,03/09/2020,20.6595382,-103.3494376
+175,Jalisco,M,54,03/07/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+176,Jalisco,F,62,03/09/2020,confirmado,Estados Unidos,23/02/2020,20.6595382,-103.3494376
+177,Jalisco,M,42,03/12/2020,confirmado,Estados Unidos,03/11/2020,20.6595382,-103.3494376
+178,Jalisco,M,49,13/03/2020,confirmado,Estados Unidos,03/08/2020,20.6595382,-103.3494376
+179,Jalisco,M,29,03/08/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+180,Jalisco,M,19,14/03/2020,confirmado,Spain,13/03/2020,20.6595382,-103.3494376
+181,Jalisco,M,63,14/03/2020,confirmado,Estados Unidos,14/03/2020,20.6595382,-103.3494376
+182,Jalisco,F,35,03/11/2020,confirmado,Italia,14/03/2020,20.6595382,-103.3494376
+183,Jalisco,M,44,03/11/2020,confirmado,Italia,03/11/2020,20.6595382,-103.3494376
+184,Puebla,F,32,15/03/2020,confirmado,Spain,15/03/2020,19.0414398,-98.2062727
+185,Chiapas,M,47,14/03/2020,confirmado,Alemania,13/03/2020,16.7569318,-93.1292353
+186,Queretaro,M,51,16/03/2020,confirmado,Estados Unidos,15/03/2020,20.5888184,-100.3898876
+187,Mexico,F,33,15/03/2020,confirmado,Spain,03/05/2020,19.4968732,-99.7232673
+188,Mexico,M,31,03/03/2020,confirmado,Spain,03/01/2020,19.4968732,-99.7232673
+189,Baja California,M,62,17/03/2020,confirmado,Contacto,NA,30.8406338,-115.2837585
+190,Queretaro,M,34,18/03/2020,confirmado,Francia,16/03/2020,20.5888184,-100.3898876
+191,Ciudad de Mexico,F,38,14/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+192,Mexico,M,55,03/11/2020,confirmado,Contacto,NA,19.4968732,-99.7232673
+193,Nuevo Leon,M,53,17/03/2020,confirmado,Contacto,NA,25.592172,-99.9961947
+194,Nuevo Leon,M,58,15/03/2020,confirmado,Spain,14/03/2020,25.592172,-99.9961947
+195,Nuevo Leon,M,61,15/03/2020,confirmado,Spain,14/03/2020,25.592172,-99.9961947
+196,Nuevo Leon,F,59,17/03/2020,confirmado,Contacto,NA,25.592172,-99.9961947
+197,Tabasco,M,46,03/09/2020,confirmado,Estados Unidos,03/11/2020,17.8409173,-92.6189273
+198,Jalisco,F,75,03/08/2020,confirmado,Estados Unidos,14/03/2020,20.6595382,-103.3494376
+199,Jalisco,M,80,14/03/2020,confirmado,Estados Unidos,14/03/2020,20.6595382,-103.3494376
+200,Nuevo Leon,F,31,03/10/2020,confirmado,Contacto,03/10/2020,25.592172,-99.9961947
+201,Ciudad de Mexico,M,38,03/10/2020,confirmado,Estados Unidos,03/07/2020,19.4284706,-99.1276627
+202,Ciudad de Mexico,F,35,03/09/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+203,Ciudad de Mexico,M,61,16/03/2020,confirmado,Spain,03/11/2020,19.4284706,-99.1276627
+204,Ciudad de Mexico,F,37,14/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+205,Ciudad de Mexico,M,43,13/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+206,Baja California,M,26,15/03/2020,confirmado,Francia,13/03/2020,30.8406338,-115.2837585
+207,Hidalgo,F,57,14/03/2020,confirmado,Spain,16/03/2020,20.0910963,-98.7623874
+208,Puebla,M,21,17/03/2020,confirmado,Spain,15/03/2020,19.0414398,-98.2062727
+209,Baja California,F,34,03/11/2020,confirmado,Estados Unidos,03/08/2020,30.8406338,-115.2837585
+210,Ciudad de Mexico,M,0,16/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+211,Puebla,M,56,14/03/2020,confirmado,Estados Unidos,03/07/2020,19.0414398,-98.2062727
+212,Nayarit,F,48,17/03/2020,confirmado,Spain,17/03/2020,21.7513844,-104.8454619
+213,Puebla,M,24,14/03/2020,confirmado,Estados Unidos,03/07/2020,19.0414398,-98.2062727
+214,Chihuahua,F,18,15/03/2020,confirmado,Estados Unidos,14/03/2020,28.6352806,-106.0888901
+215,Baja California,M,39,17/03/2020,confirmado,Contacto,NA,30.8406338,-115.2837585
+216,Queretaro,F,29,03/10/2020,confirmado,Estados Unidos,03/01/2020,20.5888184,-100.3898876
+217,Jalisco,M,77,13/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+218,Tabasco,M,33,14/03/2020,confirmado,Spain,18/03/2020,17.8409173,-92.6189273
+219,Aguascalientes,M,44,17/03/2020,confirmado,Spain,17/03/2020,21.8823395,-102.2825928
+220,Jalisco,M,20,17/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+221,Zacatecas,M,38,03/08/2020,confirmado,Contacto,NA,22.7684307,-102.5814133
+222,Queretaro,M,29,18/03/2020,confirmado,Spain,16/03/2020,20.5888184,-100.3898876
+223,Ciudad de Mexico,M,33,03/11/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+224,Nuevo Leon,M,32,15/03/2020,confirmado,Estados Unidos,16/03/2020,25.592172,-99.9961947
+225,Nuevo Leon,F,27,18/03/2020,confirmado,Estados Unidos,14/03/2020,25.592172,-99.9961947
+226,Nuevo Leon,M,35,17/03/2020,confirmado,Estados Unidos,15/03/2020,25.592172,-99.9961947
+227,Puebla,F,30,16/03/2020,confirmado,Estados Unidos,15/03/2020,19.0414398,-98.2062727
+228,Ciudad de Mexico,M,27,15/03/2020,confirmado,Francia,15/03/2020,19.4284706,-99.1276627
+229,Ciudad de Mexico,M,71,03/04/2020,confirmado,Spain,14/03/2020,19.4284706,-99.1276627
+230,Ciudad de Mexico,F,25,03/09/2020,confirmado,Spain,13/03/2020,19.4284706,-99.1276627
+231,Ciudad de Mexico,M,43,03/08/2020,confirmado,Spain,03/04/2020,19.4284706,-99.1276627
+232,Ciudad de Mexico,F,31,03/03/2020,confirmado,Alemania,03/09/2020,19.4284706,-99.1276627
+233,Veracruz,M,31,16/03/2020,confirmado,Spain,13/03/2020,19.1809502,-96.1428986
+234,Queretaro,M,29,16/03/2020,confirmado,Contacto,NA,20.5888184,-100.3898876
+235,Durango,F,68,18/03/2020,confirmado,Contacto,NA,24.5592665,-104.6587821
+236,Baja California,F,26,13/03/2020,confirmado,Estados Unidos,16/03/2020,30.8406338,-115.2837585
+237,San Luis Potosi,F,20,03/09/2020,confirmado,Spain,17/03/2020,22.1498203,-100.9791565
+238,Ciudad de Mexico,F,54,15/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+239,Jalisco,M,56,17/03/2020,confirmado,Estados Unidos,03/04/2020,20.6595382,-103.3494376
+240,Baja California,M,35,18/03/2020,confirmado,Estados Unidos,16/03/2020,30.8406338,-115.2837585
+241,Veracruz,F,35,14/03/2020,confirmado,Estados Unidos,13/03/2020,19.1809502,-96.1428986
+242,Jalisco,M,53,17/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+243,Veracruz,M,27,17/03/2020,confirmado,Contacto,16/03/2020,19.1809502,-96.1428986
+244,Quintana Roo,M,51,03/11/2020,confirmado,Spain,16/03/2020,19.1817393,-88.4791376
+245,Tamaulipas,F,33,16/03/2020,confirmado,Francia,03/07/2020,24.26694,-98.8362755
+246,San Luis Potosi,M,46,03/12/2020,confirmado,Estados Unidos,03/12/2020,22.1498203,-100.9791565
+247,Ciudad de Mexico,M,42,03/06/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+248,Ciudad de Mexico,F,35,16/03/2020,confirmado,Estados Unidos,03/09/2020,19.4284706,-99.1276627
+249,Jalisco,M,29,17/03/2020,confirmado,Singapur,03/09/2020,20.6595382,-103.3494376
+250,Tabasco,F,37,03/10/2020,confirmado,Estados Unidos,03/11/2020,17.8409173,-92.6189273
+251,Ciudad de Mexico,M,47,14/03/2020,confirmado,Spain,16/03/2020,19.4284706,-99.1276627
+252,Ciudad de Mexico,M,34,14/03/2020,confirmado,Francia,03/12/2020,19.4284706,-99.1276627
+253,Jalisco,M,55,03/09/2020,confirmado,Spain,03/12/2020,20.6595382,-103.3494376
+254,Ciudad de Mexico,F,40,18/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+255,Jalisco,M,58,17/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+256,Baja California Sur,M,48,16/03/2020,confirmado,Estados Unidos,14/03/2020,26.0444446,-111.6660725
+257,Coahuila,F,41,18/03/2020,confirmado,Spain,14/03/2020,27.058676,-101.7068294
+258,Chihuahua,M,47,18/03/2020,confirmado,Estados Unidos,13/03/2020,28.6352806,-106.0888901
+259,Ciudad de Mexico,F,48,13/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+260,Ciudad de Mexico,M,35,03/08/2020,confirmado,Spain,03/08/2020,19.4284706,-99.1276627
+261,Coahuila,M,29,17/03/2020,confirmado,Estados Unidos,15/03/2020,27.058676,-101.7068294
+262,Ciudad de Mexico,M,52,03/11/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+263,Ciudad de Mexico,M,25,13/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+264,Michoacan,M,36,03/09/2020,confirmado,Spain,,19.5665192,-101.7068294
+265,Sinaloa,M,55,17/03/2020,confirmado,Contacto,NA,25.1721091,-107.4795173
+266,Baja California,M,27,13/03/2020,confirmado,Francia,13/03/2020,30.8406338,-115.2837585
+267,Chihuahua,F,19,13/03/2020,confirmado,Spain,14/03/2020,28.6352806,-106.0888901
+268,Ciudad de Mexico,M,37,16/03/2020,confirmado,Spain,16/03/2020,19.4284706,-99.1276627
+269,Chihuahua,F,21,16/03/2020,confirmado,Spain,14/03/2020,28.6352806,-106.0888901
+270,Ciudad de Mexico,M,51,17/03/2020,confirmado,Contacto,03/08/2020,19.4284706,-99.1276627
+271,Yucatan,F,40,15/03/2020,confirmado,Contacto,NA,20.7098786,-89.0943377
+272,Ciudad de Mexico,M,36,14/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+273,Hidalgo,F,55,03/12/2020,confirmado,Contacto,NA,20.0910963,-98.7623874
+274,San Luis Potosi,F,27,17/03/2020,confirmado,Estados Unidos,18/03/2020,22.1498203,-100.9791565
+275,Jalisco,F,38,15/03/2020,confirmado,Estados Unidos,16/03/2020,20.6595382,-103.3494376
+276,San Luis Potosi,M,21,19/03/2020,confirmado,Contacto,18/03/2020,22.1498203,-100.9791565
+277,San Luis Potosi,M,34,18/03/2020,confirmado,Francia,03/05/2020,22.1498203,-100.9791565
+278,Campeche,M,52,03/12/2020,confirmado,Spain,18/03/2020,19.8438606,-90.5255432
+279,Hidalgo,F,26,18/03/2020,confirmado,Francia,17/03/2020,20.0910963,-98.7623874
+280,Tabasco,F,71,17/03/2020,confirmado,Spain,17/03/2020,17.8409173,-92.6189273
+281,Yucatan,F,17,03/10/2020,confirmado,Estados Unidos,03/08/2020,20.7098786,-89.0943377
+282,Yucatan,F,19,03/10/2020,confirmado,Estados Unidos,03/08/2020,20.7098786,-89.0943377
+283,Yucatan,M,39,14/03/2020,confirmado,Estados Unidos,14/03/2020,20.7098786,-89.0943377
+284,Sonora,M,30,18/03/2020,confirmado,Francia,13/03/2020,29.2972247,-110.3308814
+285,Michoacan,F,57,15/03/2020,confirmado,Contacto,15/03/2020,19.5665192,-101.7068294
+286,Michoacan,M,57,18/03/2020,confirmado,Contacto,15/03/2020,19.5665192,-101.7068294
+287,Yucatan,M,31,17/03/2020,confirmado,Contacto,NA,20.7098786,-89.0943377
+288,Baja California,F,49,03/12/2020,confirmado,Contacto,NA,30.8406338,-115.2837585
+289,Zacatecas,M,39,19/03/2020,confirmado,Contacto,19/03/2020,22.7684307,-102.5814133
+290,Colima,F,34,03/12/2020,confirmado,Estados Unidos,03/11/2020,19.2452342,-103.7240868
+291,Mexico,M,44,19/02/2020,confirmado,Italia,22/02/2020,19.4968732,-99.7232673
+292,Mexico,F,52,03/10/2020,confirmado,Spain,03/12/2020,19.4968732,-99.7232673
+293,Coahuila,M,43,16/03/2020,confirmado,Estados Unidos,13/03/2020,27.058676,-101.7068294
+294,Mexico,M,31,13/03/2020,confirmado,Estados Unidos,03/07/2020,19.4968732,-99.7232673
+295,Guanajuato,M,34,16/03/2020,confirmado,Estados Unidos,17/03/2020,21.0190145,-101.2573586
+296,Guanajuato,F,58,16/03/2020,confirmado,Francia,17/03/2020,21.0190145,-101.2573586
+297,Guanajuato,M,43,18/03/2020,confirmado,Estados Unidos,18/03/2020,21.0190145,-101.2573586
+298,Tamaulipas,F,21,16/03/2020,confirmado,Spain,03/12/2020,24.26694,-98.8362755
+299,Jalisco,M,25,13/03/2020,confirmado,Estados Unidos,03/06/2020,20.6595382,-103.3494376
+300,Jalisco,M,40,03/10/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+301,Jalisco,M,31,18/03/2020,confirmado,Estados Unidos,03/08/2020,20.6595382,-103.3494376
+302,Jalisco,F,38,03/11/2020,confirmado,Estados Unidos,03/07/2020,20.6595382,-103.3494376
+303,Jalisco,M,32,13/03/2020,confirmado,Estados Unidos,03/02/2020,20.6595382,-103.3494376
+304,Jalisco,M,30,18/03/2020,confirmado,Estados Unidos,03/09/2020,20.6595382,-103.3494376
+305,Coahuila,M,42,18/03/2020,confirmado,Estados Unidos,03/11/2020,27.058676,-101.7068294
+306,Coahuila,M,11,18/03/2020,confirmado,Estados Unidos,03/11/2020,27.058676,-101.7068294
+307,Coahuila,M,53,17/03/2020,confirmado,Estados Unidos,03/11/2020,27.058676,-101.7068294
+308,Coahuila,M,42,18/03/2020,confirmado,Estados Unidos,NA,27.058676,-101.7068294
+309,Mexico,M,46,18/03/2020,confirmado,Contacto,NA,19.4968732,-99.7232673
+310,Mexico,M,62,16/03/2020,confirmado,Spain,19/03/2020,19.4968732,-99.7232673
+311,Jalisco,M,24,17/03/2020,confirmado,Estados Unidos,15/03/2020,20.6595382,-103.3494376
+312,Yucatan,F,42,18/03/2020,confirmado,Francia,18/03/2020,20.7098786,-89.0943377
+313,Coahuila,F,30,13/03/2020,confirmado,Estados Unidos,18/03/2020,27.058676,-101.7068294
+314,Hidalgo,F,40,19/03/2020,confirmado,Contacto,13/03/2020,20.0910963,-98.7623874
+315,Nuevo Leon,M,60,14/03/2020,confirmado,Spain,13/03/2020,25.592172,-99.9961947
+316,Oaxaca,M,22,16/03/2020,confirmado,Contacto,NA,17.0731842,-96.7265889
+317,Nuevo Leon,M,57,13/03/2020,confirmado,Estados Unidos,03/12/2020,25.592172,-99.9961947
+318,Nuevo Leon,M,22,14/03/2020,confirmado,Estados Unidos,13/03/2020,25.592172,-99.9961947
+319,Coahuila,M,76,20/03/2020,confirmado,Spain,14/03/2020,27.058676,-101.7068294
+320,Coahuila,M,42,20/03/2020,confirmado,Spain,14/03/2020,27.058676,-101.7068294
+321,Coahuila,F,42,20/03/2020,confirmado,Spain,14/03/2020,27.058676,-101.7068294
+322,Hidalgo,F,19,20/03/2020,confirmado,Contacto,NA,20.0910963,-98.7623874
+323,Sonora,M,22,03/11/2020,confirmado,Spain,17/03/2020,29.2972247,-110.3308814
+324,Baja California Sur,F,33,16/03/2020,confirmado,Contacto,03/07/2020,26.0444446,-111.6660725
+325,Queretaro,M,37,16/03/2020,confirmado,Contacto,NA,20.5888184,-100.3898876
+326,Jalisco,M,55,13/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+327,Mexico,M,24,20/03/2020,confirmado,Italia,14/03/2020,19.4968732,-99.7232673
+328,Mexico,F,29,20/03/2020,confirmado,Spain,15/03/2020,19.4968732,-99.7232673
+329,Mexico,F,29,03/12/2020,confirmado,Estados Unidos,27/02/2020,19.4968732,-99.7232673
+330,Queretaro,F,30,21/03/2020,confirmado,Spain,15/03/2020,20.5888184,-100.3898876
+331,Campeche,F,59,03/06/2020,confirmado,Spain,15/03/2020,19.8438606,-90.5255432
+332,Quintana Roo,M,65,18/03/2020,confirmado,Spain,15/03/2020,19.1817393,-88.4791376
+333,Puebla,M,29,13/03/2020,confirmado,Contacto,NA,19.0414398,-98.2062727
+334,Puebla,M,33,13/03/2020,confirmado,Estados Unidos,03/12/2020,19.0414398,-98.2062727
+335,Jalisco,M,28,16/03/2020,confirmado,Estados Unidos,03/06/2020,20.6595382,-103.3494376
+336,Puebla,F,49,14/03/2020,confirmado,Spain,03/04/2020,19.0414398,-98.2062727
+337,Baja California,M,30,19/03/2020,confirmado,Estados Unidos,03/09/2020,30.8406338,-115.2837585
+338,Zacatecas,M,28,18/03/2020,confirmado,Spain,15/03/2020,22.7684307,-102.5814133
+339,Ciudad de Mexico,M,60,18/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+340,Ciudad de Mexico,M,38,13/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+341,Ciudad de Mexico,M,37,15/03/2020,confirmado,Contacto,16/03/2020,19.4284706,-99.1276627
+342,Puebla,F,28,15/03/2020,confirmado,Estados Unidos,,19.0414398,-98.2062727
+343,Tabasco,M,30,13/03/2020,confirmado,Estados Unidos,03/11/2020,17.8409173,-92.6189273
+344,Quintana Roo,M,60,17/03/2020,confirmado,Spain,15/03/2020,19.1817393,-88.4791376
+345,Quintana Roo,M,46,15/03/2020,confirmado,Contacto,NA,19.1817393,-88.4791376
+346,Aguascalientes,M,18,19/03/2020,confirmado,Spain,16/03/2020,21.8823395,-102.2825928
+347,Quintana Roo,F,12,15/03/2020,confirmado,Contacto,NA,19.1817393,-88.4791376
+348,Quintana Roo,F,52,17/03/2020,confirmado,Spain,15/03/2020,19.1817393,-88.4791376
+349,Quintana Roo,M,16,13/03/2020,confirmado,Contacto,NA,19.1817393,-88.4791376
+350,Jalisco,F,24,14/03/2020,confirmado,Contacto,NA,20.6595382,-103.3494376
+351,Jalisco,M,19,16/03/2020,confirmado,Spain,16/03/2020,20.6595382,-103.3494376
+352,Michoacan,F,48,15/03/2020,confirmado,Contacto,15/03/2020,19.5665192,-101.7068294
+353,Michoacan,M,58,15/03/2020,confirmado,Contacto,15/03/2020,19.5665192,-101.7068294
+354,Quintana Roo,M,44,14/03/2020,confirmado,Contacto,NA,19.1817393,-88.4791376
+355,San Luis Potosi,M,37,19/03/2020,confirmado,Estados Unidos,17/03/2020,22.1498203,-100.9791565
+356,San Luis Potosi,F,32,18/03/2020,confirmado,Estados Unidos,17/03/2020,22.1498203,-100.9791565
+357,San Luis Potosi,M,38,18/03/2020,confirmado,Estados Unidos,17/03/2020,22.1498203,-100.9791565
+358,Michoacan,F,50,15/03/2020,confirmado,Contacto,15/03/2020,19.5665192,-101.7068294
+359,Michoacan,M,56,15/03/2020,confirmado,Contacto,15/03/2020,19.5665192,-101.7068294
+360,San Luis Potosi,M,70,15/03/2020,confirmado,Contacto,NA,22.1498203,-100.9791565
+361,Guanajuato,F,20,15/03/2020,confirmado,Spain,16/03/2020,21.0190145,-101.2573586
+362,Guanajuato,F,32,16/03/2020,confirmado,Spain,16/03/2020,21.0190145,-101.2573586
+363,Puebla,F,39,18/03/2020,confirmado,Estados Unidos,13/03/2020,19.0414398,-98.2062727
+364,Nuevo Leon,F,63,13/03/2020,confirmado,Francia,14/03/2020,25.592172,-99.9961947
+365,Baja California,M,51,21/03/2020,confirmado,Contacto,NA,30.8406338,-115.2837585
+366,Guerrero,F,36,17/03/2020,confirmado,Contacto,NA,17.4391926,-99.5450974
+367,Quintana Roo,F,21,18/03/2020,confirmado,Estados Unidos,18/03/2020,19.1817393,-88.4791376
+368,Quintana Roo,F,19,03/11/2020,confirmado,Estados Unidos,03/09/2020,19.1817393,-88.4791376
+369,Quintana Roo,M,48,19/03/2020,confirmado,Contacto,13/03/2020,19.1817393,-88.4791376
+370,Tamaulipas,M,29,20/03/2020,confirmado,Contacto,NA,24.26694,-98.8362755
+371,Oaxaca,F,34,20/03/2020,confirmado,Francia,17/03/2020,17.0731842,-96.7265889
+372,Nuevo Leon,F,30,17/03/2020,confirmado,Contacto,NA,25.592172,-99.9961947
+373,Nuevo Leon,M,55,18/03/2020,confirmado,Contacto,,25.592172,-99.9961947
+374,Nuevo Leon,M,32,15/03/2020,confirmado,Contacto,NA,25.592172,-99.9961947
+375,Nuevo Leon,M,35,17/03/2020,confirmado,Estados Unidos,15/03/2020,25.592172,-99.9961947
+376,Nuevo Leon,M,39,14/03/2020,confirmado,Contacto,13/03/2020,25.592172,-99.9961947
+377,Ciudad de Mexico,M,77,16/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+378,Ciudad de Mexico,F,45,20/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+379,Nuevo Leon,M,37,17/03/2020,confirmado,Spain,18/03/2020,25.592172,-99.9961947
+380,Ciudad de Mexico,M,52,19/03/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+381,Nuevo Leon,M,40,03/11/2020,confirmado,Estados Unidos,03/09/2020,25.592172,-99.9961947
+382,Nuevo Leon,F,66,19/03/2020,confirmado,Contacto,NA,25.592172,-99.9961947
+383,Nuevo Leon,M,20,15/03/2020,confirmado,Estados Unidos,,25.592172,-99.9961947
+384,Nuevo Leon,M,21,14/03/2020,confirmado,Spain,15/03/2020,25.592172,-99.9961947
+385,Nuevo Leon,F,24,17/03/2020,confirmado,Estados Unidos,16/03/2020,25.592172,-99.9961947
+386,Nuevo Leon,M,42,13/03/2020,confirmado,Estados Unidos,03/10/2020,25.592172,-99.9961947
+387,Yucatan,M,63,03/08/2020,confirmado,Contacto,NA,20.7098786,-89.0943377
+388,Nuevo Leon,F,27,20/03/2020,confirmado,Estados Unidos,18/03/2020,25.592172,-99.9961947
+389,Nuevo Leon,M,28,14/03/2020,confirmado,Estados Unidos,15/03/2020,25.592172,-99.9961947
+390,Nuevo Leon,M,30,15/03/2020,confirmado,Estados Unidos,03/09/2020,25.592172,-99.9961947
+391,Puebla,F,76,17/03/2020,confirmado,Estados Unidos,20/03/2020,19.0414398,-98.2062727
+392,Ciudad de Mexico,F,61,16/03/2020,confirmado,Italia,03/12/2020,19.4284706,-99.1276627
+393,Nuevo Leon,F,27,03/09/2020,confirmado,Italia,03/07/2020,25.592172,-99.9961947
+394,Yucatan,M,38,03/08/2020,confirmado,Spain,03/04/2020,20.7098786,-89.0943377
+395,Guerrero,F,74,03/08/2020,confirmado,Spain,03/04/2020,17.4391926,-99.5450974
+396,Guanajuato,F,56,16/03/2020,confirmado,Francia,17/03/2020,21.0190145,-101.2573586
+397,Guanajuato,F,53,16/03/2020,confirmado,Francia,17/03/2020,21.0190145,-101.2573586
+398,Guanajuato,F,48,21/03/2020,confirmado,Francia,17/03/2020,21.0190145,-101.2573586
+399,Michoacan,M,49,15/03/2020,confirmado,Spain,,19.5665192,-101.7068294
+400,Yucatan,M,28,19/03/2020,confirmado,Francia,15/03/2020,20.7098786,-89.0943377
+401,Yucatan,F,30,19/03/2020,confirmado,Francia,18/03/2020,20.7098786,-89.0943377
+402,Yucatan,F,40,14/03/2020,confirmado,Contacto,,20.7098786,-89.0943377
+403,Ciudad de Mexico,M,38,03/10/2020,confirmado,Contacto,NA,19.4284706,-99.1276627
+404,Ciudad de Mexico,M,64,15/03/2020,confirmado,Francia,03/11/2020,19.4284706,-99.1276627
+405,Chihuahua,F,18,21/03/2020,confirmado,Spain,18/03/2020,28.6352806,-106.0888901
+406,Tlaxcala,F,NA,NA,NA,Contacto,NA,19.31905,-98.19982
