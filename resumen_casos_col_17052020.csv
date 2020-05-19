@@ -1,0 +1,35 @@
+Departamento,confirmado,recuperados,defunciones
+Bogota,5521.0,1452.0,171.0
+Valle del Cauca,1649.0,555.0,88.0
+Antioquia,534.0,326.0,6.0
+Bolivar,1258.0,173.0,67.0
+Huila,210.0,72.0,8.0
+Meta,949.0,57.0,8.0
+Risaralda,238.0,155.0,8.0
+Santander,113.0,62.0,11.0
+Caldas,120.0,52.0,5.0
+Cundinamarca,360.0,179.0,13.0
+Barranquilla D.E.,910.0,81.0,27.0
+Santander,49.0,30.0,3.0
+Quindío,79.0,58.0,2.0
+Tolima,159.0,67.0,6.0
+Cauca,64.0,26.0,4.0
+Magdalena,245.0,75.0,17.0
+Cesar,76.0,53.0,11.0
+San Andres y Providencia,21.0,5.0,0.0
+Casanare,25.0,9.0,0.0
+Narino,494.0,63.0,26.0
+Atlántico,836.0,41.0,19.0
+Boyaca,105.0,34.0,5.0
+Cordoba,78.0,14.0,4.0
+Bolivar,85.0,20.0,4.0
+Sucre,4.0,1.0,0.0
+Magdalena,164.0,33.0,9.0
+La Guajira,47.0,6.0,3.0
+Valle del Cauca,96.0,12.0,7.0
+Choco,43.0,8.0,3.0
+Amazonas,1007.0,31.0,38.0
+Caqueta,20.0,1.0,1.0
+Putumayo,3.0,0.0,0.0
+Arauca,1.0,0.0,0.0
+Vupes,11.0,0.0,0.0
