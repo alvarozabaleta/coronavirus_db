@@ -1,0 +1,33 @@
+id_estado,estado,confirmado,defunciones
+9,Ciudad de Mexico,111897.0,9002.0
+15,Mexico,74214.0,10843.0
+13,Hidalgo,11514.0,1764.0
+12,Guerrero,16600.0,1816.0
+2,Baja California,18346.0,3354.0
+23,Quintana Roo,11124.0,1538.0
+25,Sinaloa,17354.0,2983.0
+27,Tabasco,30127.0,2648.0
+30,Veracruz,31055.0,4034.0
+8,Chihuahua,9013.0,1247.0
+31,Yucatan,16729.0,1449.0
+21,Puebla,29259.0,3775.0
+26,Sonora,23275.0,2773.0
+14,Jalisco,23346.0,2828.0
+17,Morelos,5552.0,1036.0
+28,Tamaulipas,26941.0,1938.0
+19,Nuevo Leon,34191.0,2629.0
+16,Michoacan,17844.0,1431.0
+22,Queretaro,7722.0,826.0
+5,Coahuila,24267.0,1641.0
+20,Oaxaca,14925.0,1364.0
+18,Nayarit,5502.0,665.0
+6,Colima,4231.0,460.0
+7,Chiapas,6393.0,1073.0
+11,Guanajuato,36973.0,2623.0
+10,Durango,7821.0,534.0
+29,Tlaxcala,6914.0,1050.0
+1,Aguascalientes,6441.0,487.0
+4,Campeche,5816.0,779.0
+24,San Luis Potosi,20888.0,1430.0
+32,Zacatecas,6409.0,613.0
+3,Baja California Sur,9033.0,416.0
